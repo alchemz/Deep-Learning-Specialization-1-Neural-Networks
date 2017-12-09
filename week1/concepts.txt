@@ -1,0 +1,5 @@
+1. supervised and unsupervised learning
+
+2. RNN, SNN, CNN
+
+3. structured and unstructured data
